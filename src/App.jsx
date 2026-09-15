@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          <h1>Đurđice</h1>
+          <h1>Đurđice</h2>
           <div>Osijek</div>
           <p>
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
